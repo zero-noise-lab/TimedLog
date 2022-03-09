@@ -1,0 +1,26 @@
+{
+	"FileVersion": 1,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Timed Log Gamemode",
+	"Description": "Log of timing",
+	"Category": "Logging",
+	"CreatedBy": "ZeroNoise",
+	"CreatedByURL": "http://www.ue4code.com",
+	"DocsURL": "http://www.ue4code.com",
+	"MarketplaceURL": "http://www.ue4code.com",
+	"SupportURL": "http://www.ue4code.com",
+	"CanContainContent": true,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "TimedLog",
+			"Type": "Runtime",
+			"LoadingPhase": "PreDefault",
+			"WhitelistPlatforms": [
+				"Win64",
+				"Win32"
+			]
+		}
+	]
+}
