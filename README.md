@@ -10,4 +10,6 @@ Actor Component blueprint classes BaseLoggingComponent and
 MovingActorLoggingComponent are included to illustrate its functionallity. 
 
 Please be aware that no binaries are included and the plugin therefore only 
-works in C++ UE4 projects where it is properly recompiled.
+works in C++ UE4 projects where it is properly recompiled. To switch your 
+Blueprint only project to include C++ simply go to File → New C++ Class in 
+the editor. Make sure Visual Studio is installed on your machine.
